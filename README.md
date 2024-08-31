@@ -12,15 +12,13 @@ Here is a list of sites offering streaming movies. Please note that this list is
 
 4. <a href="https://tv.sadisflix.org" target="_blank">Sadisflix</a>
 
-5. <a href="https://www.emuleisland.fr" target="_blank">Emule Island</a>
+5. <a href="https://rocs45.fr" target="_blank">Rocs45</a>
 
-6. <a href="https://rocs45.fr" target="_blank">Rocs45</a>
+6. <a href="https://empire-streamz.fr" target="_blank">Empire Streamz</a>
 
-7. <a href="https://empire-streamz.fr" target="_blank">Empire Streamz</a>
+7. <a href="https://xakraf.com" target="_blank">Xakraf</a>
 
-8. <a href="https://xakraf.com" target="_blank">Xakraf</a>
-
-9. <a href="https://coflix.plus" target="_blank">Coflix</a>
+8. <a href="https://coflix.plus" target="_blank">Coflix</a>
 
 ---
 
