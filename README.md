@@ -14,7 +14,7 @@ Here is a list of sites offering streaming movies. Please note that this list is
 
 5. <a href="https://rocs45.fr" target="_blank">Rocs45</a>
 
-6. <a href="https://empire-streamz.fr" target="_blank">Empire Streamz</a>
+6. <a href="https://empire-streaming.live" target="_blank">Empire Streaming</a>
 
 7. <a href="https://xakraf.com" target="_blank">Xakraf</a>
 
