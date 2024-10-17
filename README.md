@@ -24,7 +24,15 @@ Here is a list of sites offering streaming movies. Please note that this list is
 
 10. <a href="https://www.titrov.com" target="_blank">Titrov</a>
 
-11. <a href="https://filmoflix.bz/" target="_blank">Filmoflix</a>
+11. <a href="https://filmoflix.bz" target="_blank">Filmoflix</a>
+
+12. <a href="https://adivak.com" target="_blank">Adivak</a>
+
+13. <a href="https://senpai-stream.net" target="_blank">Senpai Stream</a>
+
+14. <a href="https://www.novaflix.net" target="_blank">Novaflix</a>
+
+15. <a href="https://nightflix.vip/" target="_blank">Nightflix</a>
 
 ---
 
