@@ -6,7 +6,7 @@ Here is a list of sites offering streaming movies. Please note that this list is
 
 1. <a href="https://vww.wookafr.org" target="_blank">Wookafr</a>
 
-2. <a href="https://supremia-stream.net" target="_blank">Supremia Stream</a>
+2. <a href="https://xalaflix.eu" target="_blank">XalaFlix</a>
 
 3. <a href="https://frenchstream.vc" target="_blank">Frenchstream</a>
 
