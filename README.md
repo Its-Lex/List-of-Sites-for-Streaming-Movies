@@ -1,6 +1,6 @@
 # List of Sites for Streaming Movies
 
-Here is a list of sites offering streaming movies. Please note that this list is subject to change, and I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.
+<p>Here is a list of sites offering streaming movies. Please note that this list is subject to change, and I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.</p>
 
 ## List of Sites
 
@@ -24,4 +24,4 @@ Here is a list of sites offering streaming movies. Please note that this list is
 
 <hr>
 
-**Disclaimer:** This list is subject to change. I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.
+<p><strong>Disclaimer:</strong> This list is subject to change. I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.</p>
