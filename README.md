@@ -1,8 +1,8 @@
-<!-- List of Sites for Streaming Movies -->
+# List of Sites for Streaming Movies
 
-<p>Here is a list of sites offering streaming movies. Please note that this list is subject to change, and I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.</p>
+Here is a list of sites offering streaming movies. Please note that this list is subject to change, and I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.
 
-<h2>List of Sites</h2>
+## List of Sites
 
 <ul>
   <li>⭐ <a href="https://xalaflix.eu" target="_blank">Xalaflix</a></li>
@@ -24,4 +24,4 @@
 
 <hr>
 
-<p><strong>Disclaimer:</strong> This list is subject to change. I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.</p>
+**Disclaimer:** This list is subject to change. I am not responsible for what may happen when using these sites, as they are not mine. I do not encourage the illegal streaming of content.
